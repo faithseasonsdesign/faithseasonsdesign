@@ -1,15 +1,14 @@
-### Hi there 👋 My name is Rebaone Faith Matlaba 
-### Full-stack designer 
+### Hi there 👋 My name is Rebaone Faith Matlaba aka elonButNotMusk
 ### Multimedia designer, 
-### Front-End and Back-End developer  
+### Full-stack software engineer 
 ### Background in front-end mobile application 
-### - HTML, CSS, JavaScript, JQuery, Bootstrap, PHP, SQL, WordPress, React JavaScript, React Native and Flutter(DART)
-### - Adobe Photoshop , Adobe XD , Adobe After-Effects, Figma , Canva , 3D Max , A bit of Blender(3D Modelling)
+### - HTML, CSS, JavaScript, JQuery, AJAX, Bootstrap, PHP, SQL, WordPress, React JavaScript, NodeJS, ExpressJS, MongoDB, ASP.Net, and React Native and Flutter(DART)
+### - Adobe Photoshop, Adobe XD, Adobe After-Effects, Figma, Canva, 3D Max , A bit of Blender(3D Modelling)
 
 ### 🔭 I’m currently a Multimedia Designer and Web Developer Intern at a start-up company in Johannesburg
-### 🌱 I’m currently learning/mastering React JavaScript, React Native, Node JavaScript, and UI/UX Design
+### 🌱 I’m currently fiddling with Go Lang[ I liked it its dope ], Docker, Kurbernetes, and AngularJS
 ### 😄 Pronouns: He/Him
-### 📫 How to reach me: rebaonefaithmatlaba@gmail.com , reebaone faith matlaba on Linkedin
+### 📫 How to reach me: rebaonefaithmatlaba@gmail.com , reebaonefaithmatlaba(https://www.linkedin.com/in/faith-matlaba-909423196/) on Linkedin
 
 <!--
 **faithseasonsdesign/faithseasonsdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
