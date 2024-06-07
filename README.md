@@ -1,6 +1,11 @@
-### Hi there 👋 My name is Rebaone Faith Matlaba aka elonButNotMusk
-### Multimedia designer, 
-### Full-stack software engineer 
+### Hi there 👋 My name is Rebaone Faith Matlaba aka elonButNotMusk [Elon Musk and Steve Jobs stan]
+### MERN, PHP, MySQL , Flutter, ASP.Net[Background] , GoLang[Pending] , Docker [Learning] , Kubernetes [Planning] , AWS S3 [Pending] , AWS EC2 [Pending] 
+### Full-stack software engineer passionate about back-end engineering, looking to play around with cloud and dev-ops , in route to becoming the best software engineer.
+### I love JavaScript , I am in love with the MERN stack,I particularly love NodeJS/ExpressJS
+### I have fiddled with GoLang it looks cool, I will continue playing around with it 
+### Currently Learning Docker, Salesforce, will be leaerning GOLang, AWS
+### My friend told me about Micro Services might look into that in NodeJS and GoLang
+### Multimedia designer
 ### Background in front-end mobile application 
 ### - HTML, CSS, JavaScript, JQuery, AJAX, Bootstrap, PHP, SQL, WordPress, React JavaScript, NodeJS, ExpressJS, MongoDB, ASP.Net, and React Native and Flutter(DART)
 ### - Adobe Photoshop, Adobe XD, Adobe After-Effects, Figma, Canva, 3D Max , A bit of Blender(3D Modelling)
