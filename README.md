@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Hi I'm Rebaone Faith Matlaba</h1>
-    <h2>Full-Stack Software and Dev Ops Engineer</h2>
+    <h2>Full-Stack Software and Dev Ops Engineer + MULTIMEDIA DESIGNER [believe it or not]</h2>
     <h4 class="font-weight-bolder">Front-end Technologies</h4>
     <ul>
       <li>HTML  &nbsp;&nbsp; | &nbsp;&nbsp; CSS  &nbsp;&nbsp; | &nbsp;&nbsp; JavaScript  &nbsp;&nbsp; | &nbsp;&nbsp; jQuery  &nbsp;&nbsp; | &nbsp;&nbsp; AJAX 
@@ -25,6 +25,15 @@
       <li>Express</li>
       <li>React JavaScript</li>
       <li>Node JavaScript</li>
+    </ul
+      <h4 class="font-weight-bolder">Multimedia Tools and Technologies</h4>
+    <ul>
+      <li>Adobe Photoshop</li>
+      <li>Adobe Illustrator</li>
+      <li>Adobe After-effects</li>
+      <li>Adobe InDesign</li>
+      <li>Figma</li>
+      
     </ul>
     <h4 class="font-weight-bolder">Dev Ops</h4>
     <ul>
