@@ -43,13 +43,5 @@
       <li>Digital Ocean</li>
       <li>Linux</li>
     </ul>
-    <h4 class="font-weight-bolder">Other Tools</h4>
-    <ul>
-      <li>XAMPP</li>
-      <li>VS Code</li>
-      <li>POSTMAN</li>
-      <li>Jira</li>
-      <li>Miro</li>
-    </ul>
   </body>
 </html>
