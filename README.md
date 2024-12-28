@@ -34,5 +34,14 @@
       <li>Digital Ocean</li>
       <li>Linux</li>
     </ul>
+    <h4 class="font-weight-bolder">Multimedia Design Tools</h4>
+    <ul>
+      <li>Adobe Photoshop</li>
+      <li>Adobe Illustrator</li>
+      <li>Adobe After-Effects</li>
+      <li>Adobe In-Design</li>
+      <li>Figma</li>
+      <li>Protopie</li>
+    </ul>
   </body>
 </html>
