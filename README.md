@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Hi I'm Rebaone Faith Matlaba</h1>
-    <h2>Product Engineer (Software , Dev-Ops , Multimedia (UX|UI , Visual Communication | Graphic Design | Basic Motion Design))</h2>
+    <h2>Product Engineer <br/> (Software Engineer) <br/> Dev-Ops <br/> Multimedia (UX|UI , Visual Communication | Graphic Design | Basic Motion Design))</h2>
     <h4 class="font-weight-bolder">Front-end Technologies</h4>
     <ul>
       <li>HTML  &nbsp;&nbsp; | &nbsp;&nbsp; CSS  &nbsp;&nbsp; | &nbsp;&nbsp; JavaScript  &nbsp;&nbsp; | &nbsp;&nbsp; jQuery  &nbsp;&nbsp; | &nbsp;&nbsp; AJAX 
