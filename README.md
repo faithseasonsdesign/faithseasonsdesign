@@ -11,7 +11,10 @@
       <li>HTML  &nbsp;&nbsp; | &nbsp;&nbsp; CSS  &nbsp;&nbsp; | &nbsp;&nbsp; JavaScript  &nbsp;&nbsp; | &nbsp;&nbsp; jQuery  &nbsp;&nbsp; | &nbsp;&nbsp; AJAX 
       <li>Bootstrap</li>
       <li>WordPress</li>
+      <li>React JavaScript</li>
+      <li>React Native (Primary Mobile Dev Tech)</li>
       <li>Flutter</li>
+      <li>Angular(still learning)</li>
     </ul>
     <h4 class="font-weight-bolder">Back-end Technologies</h4>
     <ul>
