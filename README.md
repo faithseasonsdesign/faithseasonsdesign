@@ -26,15 +26,6 @@
       <li>React JavaScript</li>
       <li>Node JavaScript</li>
     </ul
-      <h4 class="font-weight-bolder">Multimedia Tools and Technologies</h4>
-    <ul>
-      <li>Adobe Photoshop</li>
-      <li>Adobe Illustrator</li>
-      <li>Adobe After-effects</li>
-      <li>Adobe InDesign</li>
-      <li>Figma</li>
-      
-    </ul>
     <h4 class="font-weight-bolder">Dev Ops</h4>
     <ul>
       <li>Git</li>
